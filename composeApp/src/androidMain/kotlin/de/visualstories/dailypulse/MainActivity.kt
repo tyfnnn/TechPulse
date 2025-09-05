@@ -16,13 +16,7 @@ class MainActivity : ComponentActivity() {
         platform.logSystemInfo()
 
         setContent {
-            App()
+            AboutScreen()
         }
     }
-}
-
-@Preview
-@Composable
-fun AppAndroidPreview() {
-    App()
 }
