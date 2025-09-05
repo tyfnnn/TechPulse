@@ -12,6 +12,9 @@ class MainActivity : ComponentActivity() {
         enableEdgeToEdge()
         super.onCreate(savedInstanceState)
 
+        val platform = Platform()
+        platform.logSystemInfo()
+
         setContent {
             App()
         }
