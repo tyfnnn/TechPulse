@@ -1,4 +1,4 @@
-package de.visualstories.dailypulse
+package de.visualstories.techpulse
 
 import platform.Foundation.NSLog
 import platform.UIKit.UIDevice

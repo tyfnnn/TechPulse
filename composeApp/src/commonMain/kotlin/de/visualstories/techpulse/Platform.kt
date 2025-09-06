@@ -1,4 +1,4 @@
-package de.visualstories.dailypulse
+package de.visualstories.techpulse
 
 expect class Platform {
     val osName: String

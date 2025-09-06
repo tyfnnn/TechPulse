@@ -1,4 +1,4 @@
-package de.visualstories.dailypulse
+package de.visualstories.techpulse
 
 import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.layout.fillMaxSize

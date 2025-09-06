@@ -1,4 +1,4 @@
-package de.visualstories.dailypulse
+package de.visualstories.techpulse
 
 import android.content.res.Resources
 import android.os.Build

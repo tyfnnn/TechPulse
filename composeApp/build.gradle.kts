@@ -1,4 +1,3 @@
-import org.jetbrains.compose.desktop.application.dsl.TargetFormat
 import org.jetbrains.kotlin.gradle.dsl.JvmTarget
 
 plugins {
@@ -47,11 +46,11 @@ kotlin {
 }
 
 android {
-    namespace = "de.visualstories.dailypulse"
+    namespace = "de.visualstories.techpulse"
     compileSdk = libs.versions.android.compileSdk.get().toInt()
 
     defaultConfig {
-        applicationId = "de.visualstories.dailypulse"
+        applicationId = "de.visualstories.techpulse"
         minSdk = libs.versions.android.minSdk.get().toInt()
         targetSdk = libs.versions.android.targetSdk.get().toInt()
         versionCode = 1

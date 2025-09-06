@@ -1,4 +1,4 @@
-package de.visualstories.dailypulse
+package de.visualstories.techpulse
 
 import kotlin.test.Test
 import kotlin.test.assertEquals

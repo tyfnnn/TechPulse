@@ -1,4 +1,4 @@
-package de.visualstories.dailypulse
+package de.visualstories.techpulse
 
 import androidx.compose.animation.AnimatedVisibility
 import androidx.compose.foundation.Image
@@ -15,9 +15,8 @@ import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import org.jetbrains.compose.resources.painterResource
 import org.jetbrains.compose.ui.tooling.preview.Preview
-
-import dailypulse.composeapp.generated.resources.Res
-import dailypulse.composeapp.generated.resources.compose_multiplatform
+import techpulse.composeapp.generated.resources.Res
+import techpulse.composeapp.generated.resources.compose_multiplatform
 
 @Composable
 @Preview

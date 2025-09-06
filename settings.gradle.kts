@@ -1,4 +1,4 @@
-rootProject.name = "DailyPulse"
+rootProject.name = "TechPulse"
 enableFeaturePreview("TYPESAFE_PROJECT_ACCESSORS")
 
 pluginManagement {
